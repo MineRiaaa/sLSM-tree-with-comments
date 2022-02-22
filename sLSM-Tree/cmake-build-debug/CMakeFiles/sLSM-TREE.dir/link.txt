@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O2 -pthread -fopenmp -g   CMakeFiles/sLSM-TREE.dir/main.cpp.o CMakeFiles/sLSM-TREE.dir/MurmurHash.cpp.o  -o sLSM-TREE 
